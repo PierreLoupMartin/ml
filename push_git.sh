@@ -1,5 +1,16 @@
 #!/bin/bash
 
+# Assure-toi d'être sur la branche main
+git checkout main > /dev/null 2>&1
+
+# Vérifie si le checkout a réussi
+BRANCH=$(git branch --show-current)
+if [ "$BRANCH" != "main" ]; then
+    echo -e "\033[0;31m❌ Impossible de se placer sur la branche main. Abandon.\033[0m"
+    exit 1
+fi
+
+
 VERT='\033[0;32m'
 ROUGE='\033[0;31m'
 NC='\033[0m'
