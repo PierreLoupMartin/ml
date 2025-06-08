@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner_ml_learning.png" alt="ml-learning banner" />
-</p>
-
 # 🤖 Machine Learning & Python – Explorations Personnelles
 
 Bienvenue sur mon dépôt `ml`, un espace dédié à mes essais, découvertes et apprentissages autour de Python, de la data science et du machine learning.  
