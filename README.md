@@ -1,6 +1,6 @@
 # 🤖 Machine Learning & Python – Explorations Personnelles
 
-Bienvenue sur mon dépôt `ml`, un espace dédié à mes essais, découvertes et apprentissages autour de Python, de la data science et du machine learning.  
+Bienvenue sur mon dépôt `machine learning`, un espace dédié à mes essais, découvertes et apprentissages autour de Python, de la data science et du machine learning.  
 Ici, je construis petit à petit des projets personnels, des outils automatisés, et des notebooks pour mieux comprendre ce que je fais.
 
 ---
